@@ -8,11 +8,11 @@ W celu zainstalowania aplikacji, należy:
 2.  Aby uzupełniać hp, zbierać z mapy "serduszka" lub spożywać "porcje" z ekwipunku.
 ## Sterowanie:
 Klawisze: 
-Strzałki - odpowiednio do poruszania się postacią i nawigacja po ekwipunku.
-Z - atak bronią 
-X - strzał
-C - włączenie/wyłączenie ekranu z ekwipunkiem
-P - pauza
-ENTER - wybranie przedmiotu z ekwipunku, wybór opcji z menu, potwierdzenie przeczytania informacji z ekranu.
+ - Strzałki - odpowiednio do poruszania się postacią i nawigacja po ekwipunku.
+ - Z - atak bronią 
+ - X - strzał
+ - C - włączenie/wyłączenie ekranu z ekwipunkiem
+ - P - pauza
+ - ENTER - wybranie przedmiotu z ekwipunku, wybór opcji z menu, potwierdzenie przeczytania informacji z ekranu.
 ##
 Dokładny opis tej aplikacji pojawi się na mojej stronie internetowej.
