@@ -15,4 +15,4 @@ Klawisze:
  - P - pauza
  - ENTER - wybranie przedmiotu z ekwipunku, wybór opcji z menu, potwierdzenie przeczytania informacji z ekranu.
 ##
-Dokładny opis tej aplikacji pojawi się na mojej stronie internetowej.
+Dokładny opis tej aplikacji znajduje się na [mojej stronie internetowej](https://kawajava.github.io/gry2d).
